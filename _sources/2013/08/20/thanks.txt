@@ -1,0 +1,13 @@
+Thanks
+======
+
+こんにちは
+
+なんとなく
+
+こんなかんじで
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::
